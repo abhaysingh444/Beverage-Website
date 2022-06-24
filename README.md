@@ -1,1 +1,2 @@
-# Beverage-Website
+# Whinery 
+Beverage-Website
